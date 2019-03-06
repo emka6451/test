@@ -13,9 +13,9 @@ Ashagdaki qaydalara emel edin.
 
 - Diger addim
 
-'''html
+``` html
 <div class="txt1">
   <h1>TestProject</h1>
 </div>
 <button>Test</button>
-'''
+```
