@@ -1,21 +1,21 @@
-* **Instructions:**
+# This new project.
 
-  * In a new HTML file, create the basic structure of an HTML document and include the following in it:
+Bu projecti men test ucun yaradmisham.
 
-    * DOCTYPE declaration
-    * Head tag with a title tag
-    * H1 tag with a title of your choice
-    * Embed an image
-    * Create the following three links on your page:
-      * One link that is `target="_blank"` so that it opens a new tab when clicked on.
-      * Make the second link bold.
-      * Make the third link a placeholder so it goes nowhere.
 
-  * HINT: You should be looking up at the screen pretty often :P
+## Bu projecti ishledme yollari:
 
-  * Bonus:
-    * Create an ordered list of steps to make a sandwich.
-    * Create an unordered list of 5 bands/musicians you like.
-    * Create a table with 2 columns (animal class and animal name) and 4 rows of animals.
-    * Use an alternate way of separating links without line breaks.
-    * Embed a Youtube video of your favorite band/musician.
+Ashagdaki qaydalara emel edin.
+
+1. Bir folder yaradin.
+2. Adinida new_project qoyun.
+3. Folderin icinde bir index.html fayli yaradin.
+
+- Diger addim
+
+'''html
+<div class="txt1">
+  <h1>TestProject</h1>
+</div>
+<button>Test</button>
+'''
